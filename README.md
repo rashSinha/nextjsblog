@@ -1,1 +1,1 @@
-This is a starter app using [Learn Next.js](https://nextjs.org/learn).
+This is a starter app using [Next.js](https://nextjs.org/learn).
